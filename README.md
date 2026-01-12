@@ -21,8 +21,10 @@ The main purpose of this repository is to provide an **analysis-ready heart rate
 
 ---
 ## Repository Structure
-'''Advanced_Research_Methods_Final/
-│
+
+## Repository Structure
+
+Advanced_Research_Methods_Final/
 ├── data/
 │ ├── raw/
 │ │ ├── HR2.csv
@@ -31,14 +33,15 @@ The main purpose of this repository is to provide an **analysis-ready heart rate
 │ │ ├── HR5.csv
 │ │ ├── HR6.csv
 │ │ └── Meta.csv
-│ │
 │ └── processed/
 │ └── galaxywatch_hr_clean_final.csv
-│
 ├── notebooks/
 │ └── hr_data_cleaning.ipynb
-│
-└── README.md '''
+└── README.md
+
+
+
+
 
 
 
